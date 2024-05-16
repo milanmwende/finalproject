@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577759783185",
+    "project_id": "milanfinal-f56c9",
+    "storage_bucket": "milanfinal-f56c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577759783185:android:68de1bcada01c3b28944b0",
+        "android_client_info": {
+          "package_name": "milan.millan_mvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJs8Dj64VYFfyaGVgrOIEWBKTdIAyJlqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
